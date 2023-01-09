@@ -1,1 +1,1 @@
-https://github.com/neoteche/termux-writeups/wiki
+https://github.com/hyperio546/termux-writeups/wiki
